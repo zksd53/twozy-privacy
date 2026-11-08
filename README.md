@@ -7,7 +7,7 @@
   <meta name="color-scheme" content="light">
   <meta name="description" content="Privacy Policy for HeartLuma, a private couples app.">
   
-  </style>
+  
 </head>
 
 <body>
